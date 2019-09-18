@@ -1,5 +1,8 @@
 name: easy_dialog
-description: A new Flutter project.
+description: Easy Dialog.
+author: Lucas Matos <lucas.matos.cc@gmail.com>
+homepage: https://github.com/lucasmatoscc/easy_dialog
+issue_tracker: https://github.com/lucasmatoscc/easy_dialog/issues
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
